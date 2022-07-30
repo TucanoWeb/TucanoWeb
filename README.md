@@ -17,12 +17,9 @@ Here are some ideas to get you started:
 
 
 
-## Olá! Eu sou o Henda Carlos 👋
+## Olá! 👋
 
-- 🔭 Hoje trabalho com Full-Stack
-- 🌱 Estudando Typescript
-- 📫 Contate-me no email: hendacarlos707@gmail.com
-- 😄 Pronouns: Nós
+
 
 <div align="center">
   <a href="https://github.com/TucanoWeb">
