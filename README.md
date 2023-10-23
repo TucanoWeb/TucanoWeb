@@ -17,13 +17,15 @@ Here are some ideas to get you started:
 
 ## Hi! 👋
 <div align="center">
-  <br />
 > I am Eric Ricielle <br />
 I am a full stack web application developer from Brazil 」
-  <br />
 </div>
 
-
+<div>
+  <br />
+  <br />
+  <br />
+</div>
 
 <div align="center">
   <a href="https://github.com/TucanoWeb">
