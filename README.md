@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 
 
 
-<div align="center">
 ## Hi! 👋
-> I am Eric Ricielle 
+<div align="center">
+  <br />
+> I am Eric Ricielle <br />
 I am a full stack web application developer from Brazil 」
+  <br />
 </div>
 
 
