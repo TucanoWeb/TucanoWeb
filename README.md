@@ -17,14 +17,16 @@ Here are some ideas to get you started:
 
 ## Hi! 👋
 <div align="center">
-> I am Eric Ricielle <br />
+  <div style="margin-bottom: 25px">
+> I am Eric Ricielle <br>
 I am a full stack web application developer from Brazil 」
+  </div>
 </div>
 
 <div>
-  <br />
-  <br />
-  <br />
+  <br>
+  <br>
+  <br>
 </div>
 
 <div align="center">
