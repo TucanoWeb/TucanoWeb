@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 ## Hi! 👋
 <div align="center">
   <div style="margin-bottom: 25px">
-<div sytle="font-size: 20px">
-<strong>I am Eric Ricielle</strong><br>
+#### I am Eric Ricielle <br>
 </div> 
 I am a full stack web application developer from Brazil 」
   </div>
