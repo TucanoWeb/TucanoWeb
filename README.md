@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
   <div style="margin-bottom: 25px">
 <h2> Hi! 👋 I am Eric Ricielle </h2><br>
-    I am a full stack web application developer from Brazil 」
+    I am a full stack web application developer from Brazil ⚡
   </div>
 </div>
 
