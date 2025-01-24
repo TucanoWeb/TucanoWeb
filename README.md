@@ -72,3 +72,14 @@ Here are some ideas to get you started:
   ![Snake animation](https://github.com/TucanoWeb/TucanoWeb/blob/main/github-contribution-grid-snake.svg)
  
 </div>
+
+<p align="center">
+ 
+  
+ 
+ <img src="https://badges.pufler.dev/repos/tucanoweb"/>
+ <img src="https://badges.pufler.dev/commits/monthly/tucanoweb"/>
+
+</p>
+
+<h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
