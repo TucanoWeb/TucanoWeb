@@ -34,10 +34,6 @@ Here are some ideas to get you started:
            height="250em"
            src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TucanoWeb&theme=github_dark&hide_border=true"
            />
-      <img
-        height="250em"
-        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TucanoWeb&&show_icons=true&theme=gotham&layout=compact&langs_count=10"
-      />
     </a>
   </div>
 
@@ -74,11 +70,6 @@ Here are some ideas to get you started:
 </div>
 
 <p align="center">
- 
-  
- 
- <img src="https://badges.pufler.dev/repos/tucanoweb"/>
- <img src="https://badges.pufler.dev/commits/monthly/tucanoweb"/>
 
 </p>
 
